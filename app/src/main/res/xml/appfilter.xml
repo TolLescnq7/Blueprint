@@ -46,7 +46,7 @@
         drawable="" />
     
     <item
-        component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.MAIN}"
+        component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
         drawable="google_chrome" />
 
 </resources>

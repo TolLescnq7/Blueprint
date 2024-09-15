@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Apktool M – https://maximoff.su/apktool -->
+<vector
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:width="192dp"
+	android:height="192dp"
+	android:viewportWidth="192"
+	android:viewportHeight="192">
+	<path
+		android:fillColor="#ff000000"
+		android:fillType="evenOdd"
+		android:pathData="M96 8C149 8 192 44.48 192 89.44C192 134.4 149 170.88 96 170.88C85.88 170.88 76.08 169.56 66.92 167.08C42.16 183.24 32.28 187.84 37.24 180.84C42.28 173.76 43.52 165.52 40.96 156.16C16.2 141.44 0 117.04 0 89.44C0 44.48 43 8 96 8ZM48 72C39.16 72 32 79.16 32 88C32 96.84 39.16 104 48 104C56.84 104 64 96.84 64 88C64 79.16 56.84 72 48 72ZM96 72C87.16 72 80 79.16 80 88C80 96.84 87.16 104 96 104C104.84 104 112 96.84 112 88C112 79.16 104.84 72 96 72ZM144 72C135.16 72 128 79.16 128 88C128 96.84 135.16 104 144 104C152.84 104 160 96.84 160 88C160 79.16 152.84 72 144 72Z" />
+</vector>

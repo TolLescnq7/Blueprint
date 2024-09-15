@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Apktool M – https://maximoff.su/apktool -->
+<vector
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:width="192dp"
+	android:height="192dp"
+	android:viewportWidth="192"
+	android:viewportHeight="192">
+	<path
+		android:fillColor="#ff000000"
+		android:fillType="evenOdd"
+		android:pathData="M95.9095 192C128.24 192 157.054 177.164 175.819 154.026C167.638 117.832 134.979 90.7832 95.9095 90.7832C56.8398 90.7832 24.1811 117.832 16 154.026C34.7645 177.164 63.5739 192 95.9095 192ZM131.902 36.2927C131.902 56.3356 115.653 72.5854 95.6098 72.5854C75.5668 72.5854 59.3171 56.3356 59.3171 36.2927C59.3171 16.2498 75.5668 0 95.6098 0C115.653 0 131.902 16.2498 131.902 36.2927Z" />
+</vector>

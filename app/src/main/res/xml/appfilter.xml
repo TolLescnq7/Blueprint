@@ -44,5 +44,9 @@
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
         drawable="" />
+    
+    <item
+        component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.MAIN}"
+        drawable="google_chrome" />
 
 </resources>

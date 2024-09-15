@@ -24,6 +24,7 @@
     <item drawable="icons_everywhere" />
     <item drawable="second_icon" />
     <item drawable="this_is_an_icon" />
+    <item drawable="google_chrome" />
 
     <category title="Games" />
     <item drawable="a_better_camera" />

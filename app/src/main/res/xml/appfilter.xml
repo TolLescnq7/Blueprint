@@ -67,6 +67,10 @@
 
     <item
         component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}"
-        drawable="files" />
+        drawable="samsung_my_files" />
 
+    <item
+        component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}"
+        drawable="samsung_gallery" />
+    
 </resources>

@@ -70,7 +70,15 @@
         drawable="samsung_my_files" />
 
     <item
-        component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}"
-        drawable="samsung_gallery" />
+        component="ComponentInfo{com.android.settings/com.android.mms.ui.ConversationComposer}"
+        drawable="samsung_settings" />
+
+    <item
+        component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
+        drawable="samsung_camera" />
+
+    <item
+        component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}"
+        drawable="galaxy_store" />
 
 </resources>

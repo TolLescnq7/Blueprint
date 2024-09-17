@@ -70,7 +70,7 @@
         drawable="samsung_my_files" />
 
     <item
-        component="ComponentInfo{com.android.settings/com.android.mms.ui.ConversationComposer}"
+        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
         drawable="samsung_settings" />
 
     <item

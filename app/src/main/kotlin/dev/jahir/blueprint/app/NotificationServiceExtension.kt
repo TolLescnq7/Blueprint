@@ -1,4 +1,4 @@
-package dev.jahir.blueprint.app
+package app.acqpol.oneuiicons
 
 /* TODO: Remove comment marks to enable
 import android.content.Context

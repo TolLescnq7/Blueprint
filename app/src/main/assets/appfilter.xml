@@ -46,7 +46,7 @@
         drawable="" />
     
     <item
-        component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
+        component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
         drawable="camera" />
 
 </resources>

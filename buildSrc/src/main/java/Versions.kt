@@ -1,4 +1,4 @@
-a@file:Suppress("unused")
+@file:Suppress("unused")
 
 object Versions {
     // Plugins

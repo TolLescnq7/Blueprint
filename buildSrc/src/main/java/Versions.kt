@@ -1,10 +1,10 @@
-@file:Suppress("unused")
+a@file:Suppress("unused")
 
 object Versions {
     // Plugins
-    const val gradle = "8.5.0"
-    const val kotlin = "2.0.0"
-    const val ksp = "$kotlin-1.0.22"
+    const val gradle = "8.10.2"
+    const val kotlin = "2.0.21"
+    const val ksp = "$kotlin-1.0.26"
 
     // OneSignal
     const val oneSignal = "4.8.10"

@@ -48,5 +48,9 @@
     <item
         component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
         drawable="camera" />
+    
+    <item
+        component="ComponentInfo{org.cromite.cromite/com.google.android.apps.chrome.Main}"
+        drawable="chrome" />
 
 </resources>

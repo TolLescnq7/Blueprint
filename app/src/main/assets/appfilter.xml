@@ -53,4 +53,8 @@
         component="ComponentInfo{org.cromite.cromite/com.google.android.apps.chrome.Main}"
         drawable="chrome" />
 
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+        drawable="settings" />
+
 </resources>
